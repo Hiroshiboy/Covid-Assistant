@@ -2,7 +2,8 @@
 This is a clickable prototype that is designed to provide the current statistics of COVID-19 in the user's current area. It also provides the user with a couple of features that would use a camera, location, and their contact list. This is designed to be as simple as possible enabling it to be used by the elderly. I decided against adding an account system as that could add a barrier of complexity and limit the amount of elderly people that can use this application.
 
 # Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aHL75HYvxr8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Link to a walkthrough of the application:
+https://www.youtube.com/embed/aHL75HYvxr8
 
 # Features
 1. Use of contacts that allow the user to send a text message to someone they know to assist them
