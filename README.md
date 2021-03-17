@@ -1,5 +1,13 @@
 # Covid-Assistant
-This is a clickable prototype that is designed to provide the current statistics of COVID-19 in the user's current area. It also provides the user with a couple of features that would use a camera, location, and their contact list.
+This is a clickable prototype that is designed to provide the current statistics of COVID-19 in the user's current area. It also provides the user with a couple of features that would use a camera, location, and their contact list. This is designed to be as simple as possible enabling it to be used by the elderly. I decided against adding an account system as that could add a barrier of complexity and limit the amount of elderly people that can use this application.
+
+# Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aHL75HYvxr8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Features
+1. Use of contacts that allow the user to send a text message to someone they know to assist them
+2. Use of location to display to users what are the closest clinics or doctors that they can get in contact with
+3. Use of the user's camera to allow them to take a picture of their grocery list or shopping list
 
 ### Service Screen
 
