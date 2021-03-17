@@ -26,9 +26,6 @@ The application uses the user's camera to allow them to take an image of a groce
 
 ## Contacts Usage
 The application uses the user's contacts to allow the user to send a text message to whomever they decide. 
-
-![Screenshot from 2021-03-16 21-44-09](https://user-images.githubusercontent.com/49799250/111402139-09f77100-86a1-11eb-9ccc-2e7d5dba8735.png)
-
 The application will then notify the user that a text message has been sent with the image taken from the camera. 
 
 ![Screenshot from 2021-03-16 21-55-01](https://user-images.githubusercontent.com/49799250/111402833-49728d00-86a2-11eb-8d74-2bc07f51d0ef.png)
